@@ -5,9 +5,6 @@ Architecture:
 
 Demo Video:
 
-<video src="https://github.com/Chetan-R7/Azure-based-Demand-Forecasting-Capacity-Optimization-System/blob/main/Chetan_project_demo_video.mp4" controls width ="700"></video>
-
-
 
 This project implements an end-to-end cloud-based forecasting system designed to predict Azure Compute and Storage demand. The workflow integrates multi-cloud data ingestion, scalable storage, advanced feature engineering, machine learning model training, and Power BI–based visualization to support Azure’s capacity planning and supply chain decision-making.
 <img width="1000" height="342" alt="image" src="https://github.com/user-attachments/assets/64ef7ff5-cff4-4b21-813b-b647acbd11e2" />
