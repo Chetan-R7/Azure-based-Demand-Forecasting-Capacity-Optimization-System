@@ -1,7 +1,8 @@
 #
 <h1>
   Infosys Springboard 6.0 Internship
-<h1>
+</h1>
+
 ##
 This Repo of Azure based demand forecasting and Capacity Optimization System demonstrates the ingestion, transformation, processing of data to comprehend valuble insights and deliver in the form of powerBi dashboards.
 The Architecture is:-
