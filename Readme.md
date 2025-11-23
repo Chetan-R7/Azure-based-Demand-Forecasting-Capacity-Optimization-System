@@ -5,7 +5,7 @@ Architecture:
 
 Demo Video:
 
-[https://github.com/user-attachments/assets/a1da76cc-6ae6-4986-a8b7-96778139df8](https://github.com/Chetan-R7/Azure-based-Demand-Forecasting-Capacity-Optimization-System/blob/main/Chetan_project_demo_video.mp4)
+<video src="https://github.com/Chetan-R7/Azure-based-Demand-Forecasting-Capacity-Optimization-System/blob/main/Chetan_project_demo_video.mp4" controls width ="700"></video>
 
 
 
